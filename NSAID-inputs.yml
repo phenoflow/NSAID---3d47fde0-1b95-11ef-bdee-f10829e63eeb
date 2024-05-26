@@ -1,0 +1,411 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/nsaid-lodine---primary.py
+inputModule3:
+  class: File
+  path: python/nsaid-128mg---primary.py
+inputModule4:
+  class: File
+  path: python/nsaid-retard---primary.py
+inputModule5:
+  class: File
+  path: python/nsaid-450mg---primary.py
+inputModule6:
+  class: File
+  path: python/nsaid-120mg---primary.py
+inputModule7:
+  class: File
+  path: python/nsaid-etodolac---primary.py
+inputModule8:
+  class: File
+  path: python/nsaid-100mg---primary.py
+inputModule9:
+  class: File
+  path: python/nsaid-400mg---primary.py
+inputModule10:
+  class: File
+  path: python/maximum-nsaid---primary.py
+inputModule11:
+  class: File
+  path: python/nsaid-froben---primary.py
+inputModule12:
+  class: File
+  path: python/nsaid-orudis---primary.py
+inputModule13:
+  class: File
+  path: python/nsaid-econac---primary.py
+inputModule14:
+  class: File
+  path: python/nsaid-sodium---primary.py
+inputModule15:
+  class: File
+  path: python/nsaid-300mg---primary.py
+inputModule16:
+  class: File
+  path: python/nsaid-liquid---primary.py
+inputModule17:
+  class: File
+  path: python/nsaid-relcofen---primary.py
+inputModule18:
+  class: File
+  path: python/indocid-nsaid---primary.py
+inputModule19:
+  class: File
+  path: python/nsaid-ibumetin---primary.py
+inputModule20:
+  class: File
+  path: python/nsaid-125mg---primary.py
+inputModule21:
+  class: File
+  path: python/nsaid-dexibuprofen---primary.py
+inputModule22:
+  class: File
+  path: python/nsaid-tolmetin---primary.py
+inputModule23:
+  class: File
+  path: python/nsaid-naproxen---primary.py
+inputModule24:
+  class: File
+  path: python/nsaid-200mg---primary.py
+inputModule25:
+  class: File
+  path: python/nsaid-syrup---primary.py
+inputModule26:
+  class: File
+  path: python/nsaid-375mg---primary.py
+inputModule27:
+  class: File
+  path: python/nsaid-sulindac---primary.py
+inputModule28:
+  class: File
+  path: python/nsaid-suspension---primary.py
+inputModule29:
+  class: File
+  path: python/nsaid-apsifen---primary.py
+inputModule30:
+  class: File
+  path: python/nsaid-lumiracoxib---primary.py
+inputModule31:
+  class: File
+  path: python/mefenamic-nsaid---primary.py
+inputModule32:
+  class: File
+  path: python/nsaid-diclomax---primary.py
+inputModule33:
+  class: File
+  path: python/nsaid-ponstan---primary.py
+inputModule34:
+  class: File
+  path: python/nsaid-defanac---primary.py
+inputModule35:
+  class: File
+  path: python/nsaid-paineze---primary.py
+inputModule36:
+  class: File
+  path: python/nsaid-342mg---primary.py
+inputModule37:
+  class: File
+  path: python/nsaid-relifex---primary.py
+inputModule38:
+  class: File
+  path: python/nsaid-arthrosin---primary.py
+inputModule39:
+  class: File
+  path: python/nsaid-cuprofen---primary.py
+inputModule40:
+  class: File
+  path: python/nsaid-piroflam---primary.py
+inputModule41:
+  class: File
+  path: python/nsaid-valdecoxib---primary.py
+inputModule42:
+  class: File
+  path: python/nsaid-200microgram---primary.py
+inputModule43:
+  class: File
+  path: python/nsaid-nabumetone---primary.py
+inputModule44:
+  class: File
+  path: python/nsaid-brufen---primary.py
+inputModule45:
+  class: File
+  path: python/nsaid-vioxxacute---primary.py
+inputModule46:
+  class: File
+  path: python/nsaid-ketpron---primary.py
+inputModule47:
+  class: File
+  path: python/nsaid-lasting---primary.py
+inputModule48:
+  class: File
+  path: python/nsaid-rofecoxib---primary.py
+inputModule49:
+  class: File
+  path: python/orodispersible-nsaid---primary.py
+inputModule50:
+  class: File
+  path: python/nsaid-phenylbutazone---primary.py
+inputModule51:
+  class: File
+  path: python/nsaid-flurbiprofen---primary.py
+inputModule52:
+  class: File
+  path: python/nsaid-volsaid---primary.py
+inputModule53:
+  class: File
+  path: python/nsaid-nycopren---primary.py
+inputModule54:
+  class: File
+  path: python/nsaid-tolectin---primary.py
+inputModule55:
+  class: File
+  path: python/nsaid-250mg---primary.py
+inputModule56:
+  class: File
+  path: python/nsaid-proflex---primary.py
+inputModule57:
+  class: File
+  path: python/nsaid-nurofen---primary.py
+inputModule58:
+  class: File
+  path: python/nsaid-celecoxib---primary.py
+inputModule59:
+  class: File
+  path: python/nsaid-800mg---primary.py
+inputModule60:
+  class: File
+  path: python/nsaid-liquifast---primary.py
+inputModule61:
+  class: File
+  path: python/nsaid-butazolidin---primary.py
+inputModule62:
+  class: File
+  path: python/nsaid-fenbuzip---primary.py
+inputModule63:
+  class: File
+  path: python/nsaid-orbifen---primary.py
+inputModule64:
+  class: File
+  path: python/nsaid-meloxicam---primary.py
+inputModule65:
+  class: File
+  path: python/nsaid-suppository---primary.py
+inputModule66:
+  class: File
+  path: python/nsaid-ketoprofen---primary.py
+inputModule67:
+  class: File
+  path: python/extra-nsaid---primary.py
+inputModule68:
+  class: File
+  path: python/nsaid-feminax---primary.py
+inputModule69:
+  class: File
+  path: python/nsaid-arthrofen---primary.py
+inputModule70:
+  class: File
+  path: python/nsaid-express---primary.py
+inputModule71:
+  class: File
+  path: python/nsaid-mandafen---primary.py
+inputModule72:
+  class: File
+  path: python/nsaid-naprosyn---primary.py
+inputModule73:
+  class: File
+  path: python/nsaid-feldene---primary.py
+inputModule74:
+  class: File
+  path: python/nsaid-contraflam---primary.py
+inputModule75:
+  class: File
+  path: python/nsaid-275mg---primary.py
+inputModule76:
+  class: File
+  path: python/nsaid-flamrase---primary.py
+inputModule77:
+  class: File
+  path: python/dolobid-nsaid---primary.py
+inputModule78:
+  class: File
+  path: python/rapid-nsaid---primary.py
+inputModule79:
+  class: File
+  path: python/nsaid-motrin---primary.py
+inputModule80:
+  class: File
+  path: python/nsaid-potassium---primary.py
+inputModule81:
+  class: File
+  path: python/nsaid-piroxicam---primary.py
+inputModule82:
+  class: File
+  path: python/mobic-nsaid---primary.py
+inputModule83:
+  class: File
+  path: python/nsaid-lederfen---primary.py
+inputModule84:
+  class: File
+  path: python/nsaid-fenactol---primary.py
+inputModule85:
+  class: File
+  path: python/nsaid-dicloflex---primary.py
+inputModule86:
+  class: File
+  path: python/tiaprofenic-nsaid---primary.py
+inputModule87:
+  class: File
+  path: python/nsaid-diclovol---primary.py
+inputModule88:
+  class: File
+  path: python/nsaid-etoricoxib---primary.py
+inputModule89:
+  class: File
+  path: python/nsaid-rhumalgan---primary.py
+inputModule90:
+  class: File
+  path: python/ibular-nsaid---primary.py
+inputModule91:
+  class: File
+  path: python/nsaid-fenbufen---primary.py
+inputModule92:
+  class: File
+  path: python/nsaid-256mg---primary.py
+inputModule93:
+  class: File
+  path: python/nsaid-seractil---primary.py
+inputModule94:
+  class: File
+  path: python/nsaid-powder---primary.py
+inputModule95:
+  class: File
+  path: python/nsaid-lidifen---primary.py
+inputModule96:
+  class: File
+  path: python/nsaid-arcoxia---primary.py
+inputModule97:
+  class: File
+  path: python/nsaid-acoflam---primary.py
+inputModule98:
+  class: File
+  path: python/nsaid-celebrex---primary.py
+inputModule99:
+  class: File
+  path: python/nsaid-prexige---primary.py
+inputModule100:
+  class: File
+  path: python/nsaid-fenoprofen---primary.py
+inputModule101:
+  class: File
+  path: python/nsaid-684mg---primary.py
+inputModule102:
+  class: File
+  path: python/nsaid-capsule---primary.py
+inputModule103:
+  class: File
+  path: python/nsaid-diclozip---primary.py
+inputModule104:
+  class: File
+  path: python/nsaid-strawberry---primary.py
+inputModule105:
+  class: File
+  path: python/nsaid-surgam---primary.py
+inputModule106:
+  class: File
+  path: python/nsaid-caplet---primary.py
+inputModule107:
+  class: File
+  path: python/nsaid-meltlet---primary.py
+inputModule108:
+  class: File
+  path: python/nsaid-arthrotec---primary.py
+inputModule109:
+  class: File
+  path: python/nsaid-tablet---primary.py
+inputModule110:
+  class: File
+  path: python/nsaid-meflam---primary.py
+inputModule111:
+  class: File
+  path: python/nsaid-granule---primary.py
+inputModule112:
+  class: File
+  path: python/nsaid-advil---primary.py
+inputModule113:
+  class: File
+  path: python/nsaid-ketovail---primary.py
+inputModule114:
+  class: File
+  path: python/nsaid-ibucalm---primary.py
+inputModule115:
+  class: File
+  path: python/single-nsaid---primary.py
+inputModule116:
+  class: File
+  path: python/nsaid-diflunisal---primary.py
+inputModule117:
+  class: File
+  path: python/nsaid-month---primary.py
+inputModule118:
+  class: File
+  path: python/nsaid-galprofen---primary.py
+inputModule119:
+  class: File
+  path: python/nsaid-clinoril---primary.py
+inputModule120:
+  class: File
+  path: python/orange-nsaid---primary.py
+inputModule121:
+  class: File
+  path: python/nsaid-fenopron---primary.py
+inputModule122:
+  class: File
+  path: python/nsaid-oruvail---primary.py
+inputModule123:
+  class: File
+  path: python/nsaid-modifiedrelease---primary.py
+inputModule124:
+  class: File
+  path: python/nsaid-600mg---primary.py
+inputModule125:
+  class: File
+  path: python/nsaid-volraman---primary.py
+inputModule126:
+  class: File
+  path: python/nsaid-soluble---primary.py
+inputModule127:
+  class: File
+  path: python/nsaid-dysman---primary.py
+inputModule128:
+  class: File
+  path: python/nsaid-misoprostol---primary.py
+inputModule129:
+  class: File
+  path: python/nsaid-solution---primary.py
+inputModule130:
+  class: File
+  path: python/nsaid-pirozip---primary.py
+inputModule131:
+  class: File
+  path: python/nsaid-opustan---primary.py
+inputModule132:
+  class: File
+  path: python/nsaid-child---primary.py
+inputModule133:
+  class: File
+  path: python/double-nsaid---primary.py
+inputModule134:
+  class: File
+  path: python/valdic-nsaid---primary.py
+inputModule135:
+  class: File
+  path: python/nsaid-flamatak---primary.py
+inputModule136:
+  class: File
+  path: python/ultra-nsaid---primary.py
+inputModule137:
+  class: File
+  path: python/output-cases.py
